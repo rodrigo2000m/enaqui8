@@ -1,0 +1,28 @@
+header{
+    background-image: url(img/chemist-2815640.jpg);
+    background-size: 250%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+nav{
+    z-index: 3;
+    
+}
+
+
+a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0px;
+    border-radius: 10px;
+}
+a:hover{
+    background-color: orangered;
+
+    transition-property:all;
+    transition-duration: 0.5s;
+    transition-timing-function:cubic-bezier(0.19, 1, 0.22, 1)
+}

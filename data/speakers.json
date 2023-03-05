@@ -1,0 +1,34 @@
+{
+    "speakers":[
+        {
+            "name": "Pepe Gonzalez" ,
+            "photo": "../img/speaker/persona1.jpeg" ,
+            "description": "Lorem ipsum"
+        },
+        {
+            "name": "Pepe Gonzalez" ,
+            "photo": "../img/speaker/persona1.jpeg" ,
+            "description": "Lorem ipsum"
+        },
+        {
+            "name": "Pepe Gonzalez" ,
+            "photo": "../img/speaker/persona1.jpeg" ,
+            "description": "Lorem ipsum"
+        },
+        {
+            "name": "Pepe Gonzalez" ,
+            "photo": "../img/speaker/persona1.jpeg" ,
+            "description": "Lorem ipsum"
+        },
+        {
+            "name": "Pepe Gonzalez" ,
+            "photo": "../img/speaker/persona1.jpeg" ,
+            "description": "Lorem ipsum"
+        },
+        {
+            "name": "Pepe Gonzalez" ,
+            "photo": "../img/speaker/persona1.jpeg" ,
+            "description": "Lorem ipsum"
+        }
+    ]
+}
