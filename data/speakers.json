@@ -2,32 +2,46 @@
     "speakers":[
         {
             "name": "Pepe Gonzalez" ,
-            "photo": "../img/speaker/persona1.jpeg" ,
+            "photo": "https://rodrigo2000m.github.io/enaqui8/img/speaker/persona1.jpeg" ,
             "description": "Lorem ipsum"
         },
         {
             "name": "Pepe Gonzalez" ,
-            "photo": "../img/speaker/persona1.jpeg" ,
+            "photo": "https://rodrigo2000m.github.io/enaqui8/img/speaker/persona1.jpeg" ,
             "description": "Lorem ipsum"
         },
         {
             "name": "Pepe Gonzalez" ,
-            "photo": "../img/speaker/persona1.jpeg" ,
+            "photo": "https://rodrigo2000m.github.io/enaqui8/img/speaker/persona1.jpeg" ,
             "description": "Lorem ipsum"
         },
         {
             "name": "Pepe Gonzalez" ,
-            "photo": "../img/speaker/persona1.jpeg" ,
+            "photo": "https://rodrigo2000m.github.io/enaqui8/img/speaker/persona1.jpeg" ,
             "description": "Lorem ipsum"
         },
         {
             "name": "Pepe Gonzalez" ,
-            "photo": "../img/speaker/persona1.jpeg" ,
+            "photo": "https://rodrigo2000m.github.io/enaqui8/img/speaker/persona1.jpeg" ,
             "description": "Lorem ipsum"
         },
         {
             "name": "Pepe Gonzalez" ,
-            "photo": "../img/speaker/persona1.jpeg" ,
+            "photo": "https://rodrigo2000m.github.io/enaqui8/img/speaker/persona1.jpeg" ,
+            "description": "Lorem ipsum"
+        },
+        {
+            "name": "Pepe Gonzalez" ,
+            "photo": "https://rodrigo2000m.github.io/enaqui8/img/speaker/persona1.jpeg" ,
+            "description": "Lorem ipsum"
+        },
+        {
+            "name": "Pepe Gonzalez" ,
+            "photo": "https://rodrigo2000m.github.io/enaqui8/img/speaker/persona1.jpeg" ,
+            "description": "Lorem ipsum"
+        },        {
+            "name": "Pepe Gonzalez" ,
+            "photo": "https://rodrigo2000m.github.io/enaqui8/img/speaker/persona1.jpeg" ,
             "description": "Lorem ipsum"
         }
     ]
