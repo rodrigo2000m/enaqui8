@@ -6,6 +6,7 @@ header{
 }
 
 
+
 nav{
     z-index: 3;
     
@@ -17,12 +18,19 @@ a{
     text-decoration: none;
     padding: 10px;
     margin: 0px;
-    border-radius: 10px;
+    border-radius: 50px;
 }
 a:hover{
-    background-color: orangered;
+    background-color:  #d45500ff;
 
     transition-property:all;
     transition-duration: 0.5s;
     transition-timing-function:cubic-bezier(0.19, 1, 0.22, 1)
+}
+
+h2{
+    border-radius: 50px;
+    background-color: #d45500ff;
+    padding: 10px;
+    color: white;
 }
